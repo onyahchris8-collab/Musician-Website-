@@ -39,7 +39,7 @@ No installation or additional dependencies required.
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_LINK
+   git clone (https://github.com/onyahchris8-collab/Musician-Website-.git)
    ```
 
 2. Open the project folder.
