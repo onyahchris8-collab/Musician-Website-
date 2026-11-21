@@ -28,7 +28,7 @@ premium-website/
 │
 ├── index.html
 ├── style.css
-├── script.js
+├── app.js
 
 ```
 
